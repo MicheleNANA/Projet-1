@@ -1,4 +1,4 @@
-# Projet-1 : CREEZ ET UTILISEZ UNE BASE DE DONNEES IMMOBILIERE AVEC SQL
+# Projet-1 : CREER ET UTILISER UNE BASE DE DONNEES IMMOBILIERE AVEC SQL
 
 ## Contexte du projet : 
 - LAPLACE IMMO, réseau national d’agences immobilières 
